@@ -43,7 +43,7 @@ A GIF recording is available, below.  Here are the commands used in that show & 
 * Try that `host hello-world.test <IP address>` command again after lunch.  It should succeed!
 * `terraform destroy` to tear it all down so you won't keep spending money at the rate of $1 per hour
 
-
+![demo_terminal_recording](/Users/jsw/src/awscast/demo_terminal_recording.gif)
 
 # AWS Cost
 
