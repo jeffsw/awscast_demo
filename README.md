@@ -4,6 +4,8 @@ This repo instantiates a set of anycast DNS servers with a test record `hello-wo
 
 # AWS Traffic Flow Configuration
 
+![aws traffic flow diagram](https://github.com/jeffsw/awscast_demo/blob/main/traffic_flow.svg?raw=true)
+
 ```mermaid
 graph LR
 subgraph Global Accelerator
@@ -28,8 +30,6 @@ aws_lb_target_group --> aws_lb_target_group_attachment
 aws_lb_target_group_attachment --> aws_instance
 
 ```
-
-![aws traffic flow diagram](https://github.com/jeffsw/awscast_demo/blob/main/traffic_flow.svg?raw=true)
 
 # Show and Tell
 
