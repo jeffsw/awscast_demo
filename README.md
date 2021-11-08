@@ -29,6 +29,8 @@ aws_lb_target_group_attachment --> aws_instance
 
 ```
 
+![aws traffic flow diagram](https://github.com/jeffsw/awscast_demo/blob/main/traffic_flow.svg?raw=true)
+
 # Show and Tell
 
 A GIF recording is available, below.  Here are the commands used in that show & tell session:
